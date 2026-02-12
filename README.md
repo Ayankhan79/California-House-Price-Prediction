@@ -79,6 +79,3 @@ This indicates XGBoost effectively captures **complex non-linear relationships**
 * Error analysis on high-priced and low-priced regions
 
 ---
-
-
-Just tell me 👍
